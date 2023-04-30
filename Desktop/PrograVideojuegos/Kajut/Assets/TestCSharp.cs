@@ -15,6 +15,7 @@ public class TestCSharp : MonoBehaviour
     private void Start()
     {
        int num = 10;
+       int num2 = 10;
        float peso = 40.5f;
        bool verdad = true;
        string nombre = "MIGUEL";
